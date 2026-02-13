@@ -4,6 +4,22 @@ This document records notable updates across Esilium.
 
 ---
 
+## [1.0.2] — 2025-12-25
+
+### 🔨 Fixes
+- **`CLIENT`** Resolved legacy issues from previous builds  
+
+### 🧩 Improvements
+- **`DASHBOARD`** Added keybind editing support for display-enabled devices  
+- **`DASHBOARD`** Introduced customer Battle Pass system  
+- **`DASHBOARD`** Implemented anonymous config publishing system  
+- **`CLIENT`** Further performance optimizations  
+
+### 🧱 Build
+- **`CLIENT`** Released stable build **v1.0.2**
+
+---
+
 ## [1.0.1] — 2025-10-27
 
 ### 🔨 Fixes
