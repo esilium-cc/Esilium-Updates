@@ -4,6 +4,27 @@ This document records notable updates across Esilium.
 
 ---
 
+## [1.0.4] — 2026-01-14
+
+### 🔨 Fixes
+- **`CHEAT`** Fixed unload instability issues  
+
+### 🧩 Improvements
+- **`CHEAT`** Added new exploit-based features  
+- **`CHEAT`** Added new vehicle-related features  
+- **`CHEAT`** Added new weapon-related features  
+- **`CHEAT`** Introduced player list and friend list systems  
+- **`CHEAT`** Added NVIDIA Streamproof support  
+- **`DASHBOARD`** Integrated all new cheat features  
+- **`DASHBOARD`** Added client injection status indicator  
+- **`CHEAT`** Further performance optimizations  
+- **`DASHBOARD`** Improved client synchronization  
+
+### 🧱 Build
+- **`CLIENT`** Released stable build **v1.0.4**
+
+---
+
 ## [1.0.3] — 2025-12-31
 
 ### 🔨 Fixes
