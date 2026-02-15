@@ -4,6 +4,21 @@ This document records notable updates across Esilium.
 
 ---
 
+## [1.1.0] — 2026-02-15
+
+### 🧩 Improvements
+- **`DASHBOARD`** Fully restyled dashboard interface  
+- **`CHEAT`** Removed high-risk features from client and dashboard  
+
+### 🛡️ Stability
+- **`CLIENT`** Updated injection workflow  
+- **`CLIENT`** Improved internal bypass mechanisms  
+
+### 🧱 Build
+- **`CLIENT`** Released stable build **v1.1.0**
+
+---
+
 ## [1.0.4] — 2026-01-14
 
 ### 🔨 Fixes
